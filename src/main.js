@@ -7,7 +7,7 @@ import { setupCounter } from './counter.js'
 import './style.css'
 
 document.querySelector('#app').innerHTML = `
-<div class="min-h-screen flex items-center justify-center bg-slate-500">
+<div class="min-h-screen flex items-center justify-center bg-slate-100">
 <div class="max-w-sm rounded-2xl bg-white p-6 shadow-lg">
 <h2 class="text-xl font-bold text-slate-900">
  สวัสดี Tailwind
